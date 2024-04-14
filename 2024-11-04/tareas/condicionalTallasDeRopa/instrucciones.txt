@@ -1,0 +1,1 @@
+Una condición en la que se seleccione una talla y digan si esta disponible o no
