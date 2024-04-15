@@ -1,0 +1,3 @@
+Para Scripts externos tenemos un atributo llamado "defer" que sirve para indicar que el HTML, no va a esperar a que el SCRIPT cargue
+https://es.javascript.info/script-async-defer
+

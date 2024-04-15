@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="src/styles/index.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1 class="title" id="title1">DOM Manipulation</h1>
+    <h2 class="title" id="title2">JavaScript 18</h2>
+    <h3 class="title" id="title3">El DOM es una API para manipular mi documento</h3>
+    <h4 class="title" id="title4">Usa nodos para acceder, modificar, crear y eliminar elementos</h4>
+
+    <div id="img--container">
+        <!--Este div está vacío en HTML-->
+    </div>
+    <hr>
+
+    <!-- Botón para mostrar y ocultar -->
+    <button id="button--card"> Mostrar / Ocultar elementos</button>
+
+    <!-- Card Profile -->
+    <div class="container" id="card--container">
+        <!-- main -->
+        <div class="main container">
+            <h2>Eventos</h2>
+            <label for="username"></label>
+            <input type="text" id="username" name="username" placeholder="Ingresa tu nombre de usuario">
+            <label for="email"></label>
+            <input type="text" id="email" name="email" placeholder="Ingresa tu email">
+            <button id="button--main">Actualizar perfil</button>
+        </div>
+
+        <!-- Profile -->
+        <div class="profile container">
+            <h3 id="name"></h3>
+            <h4 id="age"></h4>
+            <p id="e-mail"></p>
+            <ul id="films"></ul>
+        </div>
+
+    </div>
+    <script src="src/app/index.js"></script>
+    <script src="src/app/button.js"></script>
+    <script src="src/app/card.js"></script>
+
+</body>
+
+</html>
