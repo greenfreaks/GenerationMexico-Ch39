@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ba28373f-f786-4df0-9925-1bba31105f49" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../2024-04-30_java_controlDeFlujo/controlDeFlujo/src/org/generation/loops/Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2024-05-02_datosYVariables/src/funcionesEjer/Funciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2024-05-03_listas_estructurasDeDatos/collections/src/org/generation/collections/ArrayListCollections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2024-05-03_listas_estructurasDeDatos/collections/src/org/generation/collections/HashMapCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2024-05-03_listas_estructurasDeDatos/collections/src/org/generation/collections/HashSetCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2024-05-03_listas_estructurasDeDatos/collections/src/org/generation/collections/SortMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2024-05-03_listas_estructurasDeDatos/collections/src/org/generation/exercises/ControlEscolar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2024-05-03_listas_estructurasDeDatos/collections/src/org/generation/exercises/Productos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2024-05-06_programacionOrientadaAObjetos/POO1/src/org/generation/employee/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2024-05-06_programacionOrientadaAObjetos/POO1/src/org/generation/employee/EmployeeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2024-05-06_programacionOrientadaAObjetos/POO1/src/org/generation/letras/Contador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2024-05-06_programacionOrientadaAObjetos/POO1/src/org/generation/letras/Letras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2024-05-06_programacionOrientadaAObjetos/POO1/src/org/generation/letras/LetrasMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2024-05-07_programacionOrientadaAObjetos/POO2/src/org/generation/expections/DivisionMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2024-05-07_programacionOrientadaAObjetos/POO2/src/org/generation/iterable/IterableMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2024-05-07_programacionOrientadaAObjetos/POO2/src/org/generation/main/EmployeeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2024-05-07_programacionOrientadaAObjetos/cajeroBancario/src/org/generation/cajeroBancario/Cajero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2024-05-07_programacionOrientadaAObjetos/cajeroBancario/src/org/generation/cajeroBancario/CuentaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2024-05-07_programacionOrientadaAObjetos/cajeroBancario/src/org/generation/exceptions/FondosInsuficientesExc.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2gEzwacoZhLKjGMQXZWItb9sSHM" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "dev",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/xampp/htdocs/GenerationMexico-Ch39/Java-11-POO3/abstraccion"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba28373f-f786-4df0-9925-1bba31105f49" name="Changes" comment="" />
+      <created>1715277765613</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715277765613</updated>
+    </task>
+    <servers />
+  </component>
+</project>
